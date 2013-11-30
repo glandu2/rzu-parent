@@ -1,0 +1,9 @@
+[submodule "RappelzLib"]
+	path = RappelzLib
+	url = ./RappelzLib
+[submodule "RappelzClient"]
+	path = RappelzClient
+	url = ./RappelzClient
+[submodule "RappelzPlayerCount"]
+	path = RappelzPlayerCount
+	url = ./RappelzPlayerCount/
