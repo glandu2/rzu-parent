@@ -7,3 +7,6 @@
 [submodule "RappelzPlayerCount"]
 	path = RappelzPlayerCount
 	url = ./RappelzPlayerCount/
+[submodule "RappelzServerAuth"]
+	path = RappelzServerAuth
+	url = ./RappelzServerAuth
