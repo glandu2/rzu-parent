@@ -10,3 +10,6 @@
 [submodule "RappelzServerAuth"]
 	path = RappelzServerAuth
 	url = ./RappelzServerAuth
+[submodule "libuv"]
+	path = libuv
+	url = ./libuv
