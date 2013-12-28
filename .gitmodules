@@ -1,12 +1,6 @@
 [submodule "RappelzLib"]
 	path = RappelzLib
 	url = http://docmiou.dnsalias.com:10617/cgit.cgi/RappelzLib
-[submodule "RappelzClient"]
-	path = RappelzClient
-	url = ./RappelzClient
-[submodule "RappelzPlayerCount"]
-	path = RappelzPlayerCount
-	url = ./RappelzPlayerCount
 [submodule "RappelzServerAuth"]
 	path = RappelzServerAuth
 	url = http://docmiou.dnsalias.com:10617/cgit.cgi/RappelzServerAuth
