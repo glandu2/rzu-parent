@@ -1,9 +1,9 @@
 [submodule "RappelzLib"]
 	path = RappelzLib
-	url = http://docmiou.dnsalias.com:10617/cgit.cgi/RappelzLib
+	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/RappelzLib
 [submodule "RappelzServerAuth"]
 	path = RappelzServerAuth
-	url = http://docmiou.dnsalias.com:10617/cgit.cgi/RappelzServerAuth
+	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/RappelzServerAuth
 [submodule "libuv"]
 	path = libuv
-	url = http://docmiou.dnsalias.com:10617/cgit.cgi/libuv
+	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/libuv
