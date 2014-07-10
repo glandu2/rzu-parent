@@ -7,3 +7,6 @@
 [submodule "libuv"]
 	path = libuv
 	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/libuv
+[submodule "RappelzBenchmarkAuth"]
+	path = RappelzBenchmarkAuth
+	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/RappelzBenchmarkAuth
