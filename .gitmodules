@@ -1,12 +1,12 @@
-[submodule "RappelzLib"]
-	path = RappelzLib
-	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/RappelzLib
-[submodule "RappelzServerAuth"]
-	path = RappelzServerAuth
-	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/RappelzServerAuth
+[submodule "librzu"]
+	path = librzu
+	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/librzu
+[submodule "rzauth"]
+	path = rzauth
+	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/rzauth
 [submodule "libuv"]
 	path = libuv
 	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/libuv
-[submodule "RappelzBenchmarkAuth"]
-	path = RappelzBenchmarkAuth
-	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/RappelzBenchmarkAuth
+[submodule "rzbenchauth"]
+	path = rzbenchauth
+	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/rzbenchauth
