@@ -1,15 +1,15 @@
 [submodule "librzu"]
 	path = librzu
-	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/librzu
+	url = ../librzu
 [submodule "rzauth"]
 	path = rzauth
-	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/rzauth
+	url = ../rzauth
 [submodule "libuv"]
 	path = libuv
-	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/libuv
+	url = ../libuv
 [submodule "rzbenchauth"]
 	path = rzbenchauth
-	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/rzbenchauth
+	url = ../rzbenchauth
 [submodule "rzchatgateway"]
 	path = rzchatgateway
-	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/rzchatgateway
+	url = ../rzchatgateway
