@@ -10,3 +10,6 @@
 [submodule "rzbenchauth"]
 	path = rzbenchauth
 	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/rzbenchauth
+[submodule "rzchatgateway"]
+	path = rzchatgateway
+	url = http://docmiou-dnsalias.zapto.org:10617/cgit.cgi/rzchatgateway
