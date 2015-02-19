@@ -13,3 +13,6 @@
 [submodule "rzchatgateway"]
 	path = rzchatgateway
 	url = ../rzchatgateway
+[submodule "rzgamereconnect"]
+	path = rzgamereconnect
+	url = ../rzgamereconnect
