@@ -16,3 +16,9 @@
 [submodule "rzgamereconnect"]
 	path = rzgamereconnect
 	url = ../rzgamereconnect
+[submodule "zlib"]
+	path = zlib
+	url = ../zlib
+[submodule "rztest"]
+	path = rztest
+	url = ../rztest
