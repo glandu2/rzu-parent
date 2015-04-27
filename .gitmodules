@@ -22,3 +22,6 @@
 [submodule "rztest"]
 	path = rztest
 	url = ../rztest
+[submodule "gtest"]
+	path = gtest
+	url = ../gtest
