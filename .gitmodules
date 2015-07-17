@@ -25,3 +25,6 @@
 [submodule "gtest"]
 	path = gtest
 	url = ../gtest
+[submodule "rzgame"]
+	path = rzgame
+	url = ../rzgame
