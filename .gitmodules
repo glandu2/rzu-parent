@@ -30,4 +30,4 @@
 	url = ../rzgame
 [submodule "rzlog"]
 	path = rzlog
-	url = ./rzlog
+	url = ../rzlog
