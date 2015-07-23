@@ -28,3 +28,6 @@
 [submodule "rzgame"]
 	path = rzgame
 	url = ../rzgame
+[submodule "rzlog"]
+	path = rzlog
+	url = ./rzlog
