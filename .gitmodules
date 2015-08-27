@@ -1,33 +1,33 @@
 [submodule "librzu"]
 	path = librzu
-	url = ../librzu
+	url = ../librzu.git
 [submodule "rzauth"]
 	path = rzauth
-	url = ../rzauth
+	url = ../rzauth.git
 [submodule "libuv"]
 	path = libuv
-	url = ../libuv
+	url = ../libuv.git
 [submodule "rzbenchauth"]
 	path = rzbenchauth
-	url = ../rzbenchauth
+	url = ../rzbenchauth.git
 [submodule "rzchatgateway"]
 	path = rzchatgateway
-	url = ../rzchatgateway
+	url = ../rzchatgateway.git
 [submodule "rzgamereconnect"]
 	path = rzgamereconnect
-	url = ../rzgamereconnect
+	url = ../rzgamereconnect.git
 [submodule "zlib"]
 	path = zlib
-	url = ../zlib
+	url = ../zlib.git
 [submodule "rztest"]
 	path = rztest
-	url = ../rztest
+	url = ../rztest.git
 [submodule "gtest"]
 	path = gtest
-	url = ../gtest
+	url = ../gtest.git
 [submodule "rzgame"]
 	path = rzgame
-	url = ../rzgame
+	url = ../rzgame.git
 [submodule "rzlog"]
 	path = rzlog
-	url = ../rzlog
+	url = ../rzlog.git
