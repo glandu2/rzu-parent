@@ -31,3 +31,6 @@
 [submodule "rzlog"]
 	path = rzlog
 	url = ../rzlog.git
+[submodule "libiconv"]
+	path = libiconv
+	url = ../libiconv.git
