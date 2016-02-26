@@ -34,3 +34,6 @@
 [submodule "libiconv"]
 	path = libiconv
 	url = ../libiconv.git
+[submodule "rzfilter"]
+	path = rzfilter
+	url = ../rzfilter.git
