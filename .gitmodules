@@ -1,42 +1,56 @@
 [submodule "librzu"]
 	path = librzu
 	url = ../librzu
+	branch = master
 [submodule "rzauth"]
 	path = rzauth
 	url = ../rzauth
+	branch = master
 [submodule "libuv"]
 	path = libuv
 	url = ../libuv
+	branch = feature/cmake_support
 [submodule "rzbenchauth"]
 	path = rzbenchauth
 	url = ../rzbenchauth
+	branch = master
 [submodule "rzchatgateway"]
 	path = rzchatgateway
 	url = ../rzchatgateway
+	branch = master
 [submodule "rzgamereconnect"]
 	path = rzgamereconnect
 	url = ../rzgamereconnect
+	branch = master
 [submodule "zlib"]
 	path = zlib
 	url = ../zlib
+	branch = minimal
 [submodule "rztest"]
 	path = rztest
 	url = ../rztest
+	branch = master
 [submodule "gtest"]
 	path = gtest
 	url = ../gtest
+	branch = master
 [submodule "rzgame"]
 	path = rzgame
 	url = ../rzgame
+	branch = master
 [submodule "rzlog"]
 	path = rzlog
 	url = ../rzlog
+	branch = master
 [submodule "libiconv"]
 	path = libiconv
 	url = ../libiconv
+	branch = master
 [submodule "rzfilter"]
 	path = rzfilter
 	url = ../rzfilter
+	branch = reloadable-filter
 [submodule "rzauctionmonitor"]
 	path = rzauctionmonitor
 	url = ../rzauctionmonitor
+	branch = master
