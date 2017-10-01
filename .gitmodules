@@ -54,3 +54,7 @@
 	path = rzauctionmonitor
 	url = ../rzauctionmonitor
 	branch = master
+[submodule "liblua"]
+	path = liblua
+	url = ../liblua
+	branch = master
