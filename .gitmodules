@@ -33,7 +33,7 @@
 [submodule "gtest"]
 	path = gtest
 	url = ../gtest
-	branch = master
+	branch = upstream
 [submodule "rzgame"]
 	path = rzgame
 	url = ../rzgame
